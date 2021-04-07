@@ -1,13 +1,13 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #EE4B29;
+    background-color: #1a1edb;
     font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-    background-color: #29EE6A;
+    background-color: #c4db12;
     border-radius: 0;
     border: 0;
 }
@@ -50,7 +50,7 @@ body {
 
 
 #nav-list li p {
-    background: #629550;
+    background: #000000;
 }
 
 /* END HEADER */
